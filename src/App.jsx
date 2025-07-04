@@ -1,6 +1,5 @@
 import "./App.css";
 import { AntDesign } from "./components/AntDesign";
-import { ChakraButtons } from "./components/ChakraButtons";
 import { MuiButtons } from "./components/MuiButtons";
 
 function App() {
@@ -8,7 +7,7 @@ function App() {
     <div>
       <AntDesign />
       <MuiButtons />
-      {/* <ChakraButtons /> */}
+
     </div>
   );
 }
